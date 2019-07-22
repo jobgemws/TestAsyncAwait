@@ -1,0 +1,11 @@
+C:\Users\Евгений\Documents\GitHub\TestAsyncAwait\TestAsyncAwait\TestAsyncAwait\bin\Debug\netcoreapp2.1\TestAsyncAwait.deps.json
+C:\Users\Евгений\Documents\GitHub\TestAsyncAwait\TestAsyncAwait\TestAsyncAwait\bin\Debug\netcoreapp2.1\TestAsyncAwait.runtimeconfig.json
+C:\Users\Евгений\Documents\GitHub\TestAsyncAwait\TestAsyncAwait\TestAsyncAwait\bin\Debug\netcoreapp2.1\TestAsyncAwait.runtimeconfig.dev.json
+C:\Users\Евгений\Documents\GitHub\TestAsyncAwait\TestAsyncAwait\TestAsyncAwait\bin\Debug\netcoreapp2.1\TestAsyncAwait.dll
+C:\Users\Евгений\Documents\GitHub\TestAsyncAwait\TestAsyncAwait\TestAsyncAwait\bin\Debug\netcoreapp2.1\TestAsyncAwait.pdb
+C:\Users\Евгений\Documents\GitHub\TestAsyncAwait\TestAsyncAwait\TestAsyncAwait\obj\Debug\netcoreapp2.1\TestAsyncAwait.csprojAssemblyReference.cache
+C:\Users\Евгений\Documents\GitHub\TestAsyncAwait\TestAsyncAwait\TestAsyncAwait\obj\Debug\netcoreapp2.1\TestAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Documents\GitHub\TestAsyncAwait\TestAsyncAwait\TestAsyncAwait\obj\Debug\netcoreapp2.1\TestAsyncAwait.AssemblyInfoInputs.cache
+C:\Users\Евгений\Documents\GitHub\TestAsyncAwait\TestAsyncAwait\TestAsyncAwait\obj\Debug\netcoreapp2.1\TestAsyncAwait.AssemblyInfo.cs
+C:\Users\Евгений\Documents\GitHub\TestAsyncAwait\TestAsyncAwait\TestAsyncAwait\obj\Debug\netcoreapp2.1\TestAsyncAwait.dll
+C:\Users\Евгений\Documents\GitHub\TestAsyncAwait\TestAsyncAwait\TestAsyncAwait\obj\Debug\netcoreapp2.1\TestAsyncAwait.pdb
